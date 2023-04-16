@@ -1,2 +1,0 @@
-# lavarel
-gb qa ld
