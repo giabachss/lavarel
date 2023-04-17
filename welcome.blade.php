@@ -18,9 +18,9 @@
     margin:0;
 }
 .container{
-    height: 80%;
+    height: 800px;
     width: 100%;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDO41G7VoWSXy4PkqOicEDOxJ6caiRuvCpuw&usqp=CAU);
+    background-image: url(http://www.atyourbusiness.com/blog/wp-content/uploads/2019/07/petsupply-1024x653.jpg);
     background-size:cover;
 }
 .top{
@@ -99,7 +99,8 @@ button{
     <body>
         <div class="flex-center position-ref full-height">
 
-                    <div class="container">
+
+            <div class="container">
             <div class="top">
                 <div class="logo">
                    <img src="https://st.depositphotos.com/1031343/2194/v/950/depositphotos_21949883-stock-illustration-pet-shop-stamp.jpg" width="100px" height="100px"> 
